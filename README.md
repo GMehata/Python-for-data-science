@@ -2,3 +2,5 @@
 #Practice-book
 #NumPy
 #Pandas
+#Matplotlib
+#Seaborn
